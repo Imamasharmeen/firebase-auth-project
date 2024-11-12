@@ -71,7 +71,7 @@ export default function Navbar() {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">Button</a>
+          <button className="btn">googl Login</button>
         </div>
       </div>
     </div>
